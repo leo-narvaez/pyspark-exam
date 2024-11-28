@@ -1,4 +1,4 @@
-# Exámen práctico PySpark
+# PySpark ejemplos Prácticos
 ![examen_pyspark](https://github.com/user-attachments/assets/7c227dac-57ec-4959-a07a-c701da7373f4)
 
 Este repositorio contiene una serie de casos prácticos diseñados para aplicar habilidades de análisis de datos, limpieza, visualización y modelado. Cada caso se presenta con un enfoque específico, desde la limpieza de datos hasta la extracción de insights de datasets complejos. El repositorio está organizado por casos, y cada uno sigue una estructura estándar que facilita el acceso y la organización.
