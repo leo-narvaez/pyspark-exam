@@ -12,6 +12,3 @@ Como ingeniero de datos en Voltmart, se te ha solicitado limpiar un conjunto de 
 En la raíz de cada caso, encontrarás:
 - **Notebook vacío** para que puedas intentar replicar la solución por ti mismo.
 - **README específico** para el caso en cuestión, explicando el objetivo y los pasos a seguir.
-
----
-Este caso es crucial para desarrollar habilidades de limpieza de datos, que son fundamentales para cualquier proyecto de análisis de datos, especialmente en el comercio electrónico. La limpieza adecuada de los datos es el primer paso hacia la creación de modelos predictivos precisos y efectivos.
